@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\GAM230\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\TornadoScript.cs" />
     <Compile Include="Assets\UnityHDR\TutorialInfo\Scripts\Readme.cs" />
     <Reference Include="Unity.RenderPipelines.Core.Editor">
       <HintPath>C:/Users/Big Boss/3D Objects/Gam230/GAM230_A1_HW223759/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
